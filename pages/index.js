@@ -14,6 +14,10 @@ export default function Home() {
         </h1>
 
         <p className="description">
+          ทดสอบภาษาไทย
+        </p>
+
+        <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
 
@@ -187,21 +191,6 @@ export default function Home() {
             width: 100%;
             flex-direction: column;
           }
-        }
-      `}</style>
-
-      <style jsx global>{`
-        html,
-        body {
-          padding: 0;
-          margin: 0;
-          font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
-            Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
-            sans-serif;
-        }
-
-        * {
-          box-sizing: border-box;
         }
       `}</style>
     </div>
